@@ -1,4 +1,4 @@
-#TTablet Terms and Services
+# TTablet Terms and Services
 
 Unauthorized use or distribution ("leaking") of TTablet is strictly prohibited.
 
